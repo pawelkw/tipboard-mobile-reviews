@@ -15,6 +15,12 @@ It's pretty straightforward. Just open the script and take a look. All of the pa
 #Running the script
 `ruby tipboard-mobile-reviews.rb`
 
+#TODO
+- fetch more data (stars, app icon, ...?)
+- create a custom tile for Tipboard (could show stars, be formatted nicely, show app store icon, etc)
+- better error handling
+- improve the code? I'm new to Ruby :)
+
 #License
 
 
