@@ -5,11 +5,15 @@ Ruby script for Tipboard dashboard which lets you fetch and display random app r
 
 #Requirements
 - A configured and running instance of [Tipboard](tipboard.allegrogroup.com)
+- Ruby 1.9.3
 - The following gems: *rest_client*, *wombat*, *logging*
 - An API key for [PlayStoreApi](http://www.playstoreapi.com/)
 
 #Configuration
 It's pretty straightforward. Just open the script and take a look. All of the parameters are pretty self-explanatory and don't require any description.
+
+#Running the script
+`ruby tipboard-mobile-reviews.rb`
 
 #License
 
